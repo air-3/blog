@@ -2,7 +2,7 @@ import Vue from 'vue'
 import axios from 'axios'
 
 // let Url = 'http://localhost:3000/api/v1/'
-let Url = 'http://118.31.3.50/api/v1/'
+let Url = 'http://www.houshisong.cn/api/v1/'
 
 axios.defaults.baseURL = Url
 
